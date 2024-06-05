@@ -1,4 +1,4 @@
-# Simple Gauss-Newton Optimization with Sophus [SE(3)]
+# Simple Gauss-Newton Optimization with Sophus SE(3)
 This repository contains an implementation of a simple Gauss-Newton algorithm for nonlinear optimization, utilizing the Sophus library to handle Lie groups and transformations. The project aims to provide a clear example of applying the Gauss-Newton method to problems in robotics and computer vision where transformations are crucial.
 
 ## Introduction
